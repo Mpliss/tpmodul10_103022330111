@@ -33,3 +33,4 @@ D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul10_103022330111\tpmodul10_103022330111\
 D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul10_103022330111\tpmodul10_103022330111\obj\Debug\net8.0\tpmodul10_103022330111.pdb
 D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul10_103022330111\tpmodul10_103022330111\obj\Debug\net8.0\tpmodul10_103022330111.genruntimeconfig.cache
 D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul10_103022330111\tpmodul10_103022330111\obj\Debug\net8.0\ref\tpmodul10_103022330111.dll
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul10_103022330111\tpmodul10_103022330111\obj\Debug\net8.0\tpmodul10_103022330111.sourcelink.json
